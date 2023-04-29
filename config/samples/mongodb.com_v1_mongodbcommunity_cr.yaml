@@ -6,7 +6,7 @@ metadata:
 spec:
   members: 3
   type: ReplicaSet
-  version: "6.0.5"
+  version: "latest"
   security:
     authentication:
       modes: ["SCRAM"]
@@ -33,4 +33,4 @@ metadata:
   name: my-user-password
 type: Opaque
 stringData:
-  password: <your-password-here>
+  password: Saprissa38
